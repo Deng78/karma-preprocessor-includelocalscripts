@@ -4,7 +4,7 @@
   "description": "Karma preprocessor that includes JS files from <script> tags from html",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "~0.12.4",
+    "cheerio": "0.13.0",
     "lodash": "^4.0.1"
   },
   "devDependencies": {
